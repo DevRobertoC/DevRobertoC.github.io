@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevRobertoC
 - 👀 I’m interested in Data Science, Data Analysis, Data Engineering and Development with Python
-- 🌱 I’m currently learning Data Science and Python
+- 🌱 I’m currently learning Data Science and BigData
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 You can contact me by sending a message
 
