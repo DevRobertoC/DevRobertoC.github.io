@@ -1,5 +1,5 @@
 - Hola, soy @DevRobertoC.
-- Mis habilidades son con Python, Java, Datascience, SQL, DB2, HTML, CSS, Scrum, Git.
+- Mis habilidades: Python, Java, Datascience, SQL, DB2, HTML, CSS, Scrum, Git.
 - Actualmente estoy aprendiendo Javascript, Flask y Django.
 - Me pueden contactar enviando un mensaje
 
